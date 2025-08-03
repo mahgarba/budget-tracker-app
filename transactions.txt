@@ -1,1 +1,3 @@
-INCOME, 2025-06-25, Final Project, 45000.00, Savings
+INCOME, 2025-06-25,  Final Project, 45000.00,  Savings
+INCOME, 2025-07-03, Running for Screenshot, 20000.00, Test
+EXPENSE, 2025-07-03, Running for screenshot 2, 15000.00, Test

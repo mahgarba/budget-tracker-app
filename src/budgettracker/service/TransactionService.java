@@ -75,7 +75,7 @@ public class TransactionService {
 
                 if (parts.length == 5){
                     String type = parts[0];
-                    LocalDate date = LocalDate.parse(parts[1]);
+                    LocalDate date = LocalDate.parse(parts[1].trim());
                     String description = parts[2];
                     double amount = Double.parseDouble(parts[3]);
                     Category category = new Category(parts[4]);
